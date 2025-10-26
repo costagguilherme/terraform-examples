@@ -1,0 +1,5 @@
+ec2-autoscaling/.terraform
+ec2-serverless/.terraform
+*.tfstate
+*.tfstate.backup
+*terraform.lock.hcl
